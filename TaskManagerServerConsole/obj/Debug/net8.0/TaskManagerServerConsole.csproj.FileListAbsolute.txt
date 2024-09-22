@@ -1,0 +1,15 @@
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\bin\Debug\net8.0\TaskManagerServerConsole.exe
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\bin\Debug\net8.0\TaskManagerServerConsole.deps.json
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\bin\Debug\net8.0\TaskManagerServerConsole.runtimeconfig.json
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\bin\Debug\net8.0\TaskManagerServerConsole.dll
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\bin\Debug\net8.0\TaskManagerServerConsole.pdb
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\obj\Debug\net8.0\TaskManagerServerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\obj\Debug\net8.0\TaskManagerServerConsole.AssemblyInfoInputs.cache
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\obj\Debug\net8.0\TaskManagerServerConsole.AssemblyInfo.cs
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\obj\Debug\net8.0\TaskManagerServerConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\obj\Debug\net8.0\TaskManagerServerConsole.sourcelink.json
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\obj\Debug\net8.0\TaskManagerServerConsole.dll
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\obj\Debug\net8.0\refint\TaskManagerServerConsole.dll
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\obj\Debug\net8.0\TaskManagerServerConsole.pdb
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\obj\Debug\net8.0\TaskManagerServerConsole.genruntimeconfig.cache
+C:\Users\Sirac_xl04\source\repos\NetworkProgrammingPractice\TaskManagerServerConsole\obj\Debug\net8.0\ref\TaskManagerServerConsole.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TaskManagerClientUI/1.0.0": {
+        "runtime": {
+          "TaskManagerClientUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManagerClientUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
